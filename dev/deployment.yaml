@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: myapp
-        image: nanajanashia/argocd-app:1.2
+        image: projectred521/pyserver:0.1
         ports:
         - containerPort: 8080
